@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Software Developer | APIs | Databases | Business Systems | Automation | AI Integration
+## Software Engineer
 Hi, I'm Dan 👋
 
 I'm a Software Developer with professional experience in .NET web development, enterprise systems, REST APIs, SQL Server, and production debugging.
