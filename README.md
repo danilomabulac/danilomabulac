@@ -22,7 +22,7 @@ My goal is to build software that solves real operational problems, not just tut
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - REST API development
-- Entity Framework Core
+- Entity Framework Core, Dapper, Prisma, Drizzle, SQLAlchemy
 - Dependency Injection
 - JWT / OAuth authentication / Clerk
 - API integration
