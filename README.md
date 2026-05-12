@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-## Software Engineer
 Hi, I'm Dan 👋
 
-I'm a Software Developer with professional experience in .NET web development, enterprise systems, REST APIs, SQL Server, and production debugging.
+I'm a Software Engineer with professional experience in .NET web development, enterprise systems, REST APIs, SQL Server, and production debugging.
 
 Outside my professional .NET background, I build practical web applications and business systems, including automation tools, AI-assisted features, workflow solutions, and internal tools.
 
