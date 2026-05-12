@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Software Engineer with 4 years of professional experience building and enhancing enterprise applications using C#, ASP.NET Core,<br>and ASP.NET MVC. Skilled in developing backend APIs, delivering full-stack features, and debugging production issues<br>across UI, API, and database layers, with a strong ownership of tasks and planned executions. Experienced in Agile<br>environments, collaborating with QA, DevOps, and Product teams to deliver stable and efficient systems. Actively builds<br>projects that solve real-world business problems and exploring AI integrations to enhance system capabilities and user<br>experience.
+Hi, I'm Dan 👋
+
+I'm a Software Developer with professional experience in .NET web development, enterprise systems, REST APIs, SQL Server, and production debugging.
+Outside my professional .NET background, I build practical side projects involving SaaS workflows, automation tools, AI-assisted features, and business management platforms.
+My goal is to build software that solves real operational problems, not just tutorial projects.
 
 
 ## 🌐 Socials:
