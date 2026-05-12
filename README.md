@@ -2,7 +2,9 @@
 Hi, I'm Dan 👋
 
 I'm a Software Developer with professional experience in .NET web development, enterprise systems, REST APIs, SQL Server, and production debugging.
+
 Outside my professional .NET background, I build practical side projects involving SaaS workflows, automation tools, AI-assisted features, and business management platforms.
+
 My goal is to build software that solves real operational problems, not just tutorial projects.
 
 
